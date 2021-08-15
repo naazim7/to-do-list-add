@@ -1,0 +1,45 @@
+body{
+    font-family: monospace;
+ background-color: rgb(193, 238, 223);
+
+}
+h1{
+    font-size:3rem;
+    text-align: center;
+    text-decoration: underline;
+    background-color: blueviolet;
+    border-radius: 20px;
+    color: white;
+    padding: 5px;
+}
+
+#taskInput,#btn{
+    padding: 10px;
+    margin-left: 10px;
+    
+}
+#btn{
+    background-color: purple;
+ 
+    color: white;
+    border-radius: 10px;
+}
+#btn:hover{
+    background-color: rgb(109, 28, 28);
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.items{
+    font-size: 20px;
+    margin-top: 5px;
+ 
+    
+}
+.heading{
+    font-size: 25px;
+    
+}
